@@ -3,17 +3,19 @@ user-database
 
 Test with nodejs and mongodb for a user database. 
 
-UI
-=============
+
+Project technology
+--------------
+
+
+**UI**
 
 Grunt, Yeoman, Bower, Angular, jquery
 
-Server
-=============
+**Server**
 
 Nodejs
 
-Database
-=============
+**Database**
 
 MongoDB
